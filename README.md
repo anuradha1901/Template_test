@@ -18,6 +18,9 @@ End: ...
 FOLDER: /bin
 --> This folder contains basic scripts and executable files.
 
+FOLDER: /conda
+--> This folder contains necessary scripts for deploying a conda package.
+
 FOLDER: /data
 --> This folder contains the raw data associated with the project and the potential references.
 
