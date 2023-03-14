@@ -1,4 +1,3 @@
-# Template_test
 
 # Luque Lab project template
 
